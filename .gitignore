@@ -1,0 +1,7 @@
+# .gitignore
+chroma_db/
+uploaded_pdfs/
+__pycache__/
+.env
+venv/
+*.pyc

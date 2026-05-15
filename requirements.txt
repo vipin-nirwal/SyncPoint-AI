@@ -1,0 +1,12 @@
+streamlit
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+llama-index-llms-openai
+chromadb
+pymupdf
+python-dotenv
+torch
+torchvision
+llama-index-readers-confluence
+atlassian-python-api
